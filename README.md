@@ -15,6 +15,9 @@ Proyek ini dibuat untuk membantu memantau **kualitas air toren** dan **kondisi l
 - Mengontrol pompa air otomatis berdasarkan level toren dan kondisi air.
 
 ---
+## Arsitektur Sistem
+
+![Diagram IoT](images/topologi.jpeg)
 
 ## Fitur Utama
 - **Monitoring sensor** (pH, turbidity/kekeruhan, TDS, suhu, level air).
